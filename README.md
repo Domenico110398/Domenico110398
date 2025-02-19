@@ -25,8 +25,6 @@ I corsi che ho fatto:
 
 Corso Sviluppatore Web presso MTM project
 
-Le esperienze sin dalla più tenera età nella piccola azienda agricola a gestione famigliare dei miei genitori mi hanno permesso di maturare delle discrete capacità organizzative e gestionali.
-
 <!---
 Domenico110398/Domenico110398 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
